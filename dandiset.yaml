@@ -20,9 +20,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 181634698
-  numberOfFiles: 6
-  numberOfSubjects: 1
+  numberOfBytes: 542846093
+  numberOfFiles: 19
+  numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
@@ -59,9 +59,9 @@ description: 'This dataset contains behavioral data underlying the following pub
   A., Janssen, M., Murray, E. A., & Averbeck, B. B. (2023). The motivational role
   of the ventral striatum and amygdala in learning from gains and losses. Behavioral
   Neuroscience, 137(4), 268–280. https://doi.org/10.1037/bne0000558. The dataset also
-  includes a small proportion of previously unpublished behavioral data collected
-  by Craig Taswell. Siyu Wang processed the data and converted them into the Neurodata
-  Without Borders (NWB) format.'
+  includes a small set of previously unpublished behavioral data collected by Craig
+  Taswell. Siyu Wang processed the data and converted them into the Neurodata Without
+  Borders (NWB) format.'
 ethicsApproval: []
 id: DANDI:002098/draft
 identifier: DANDI:002098
