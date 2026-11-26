@@ -27,6 +27,8 @@ contributor:
   name: Wang, Siyu
   roleName:
   - dcite:ContactPerson
+  - dcite:DataManager
+  - dcite:Maintainer
   schemaKey: Person
 dateCreated: '2026-11-25T18:48:53.170111+00:00'
 description: 'This dataset contains behavioral data underlying the following publications:
